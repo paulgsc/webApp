@@ -1,0 +1,13 @@
+{
+  "_vendor-8184a7f5.js": {
+    "file": "assets/vendor-8184a7f5.js"
+  },
+  "index.html": {
+    "file": "assets/index-f3c09095.js",
+    "imports": [
+      "_vendor-8184a7f5.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  }
+}
